@@ -13,13 +13,20 @@
       "duration_seconds": 36465,
       "duration_hours": 10.13,
       "date": "2026-01-26"
+    },
+    {
+      "start": "2026-01-27T14:49:05.272273",
+      "end": "2026-01-27T15:08:35.116394",
+      "duration_seconds": 1169,
+      "duration_hours": 0.32,
+      "date": "2026-01-26"
     }
   ],
   "last_session": {
-    "start": "2026-01-26T22:29:32.280204",
-    "end": "2026-01-27T08:37:17.454473",
-    "duration_seconds": 36465,
-    "duration_hours": 10.13,
+    "start": "2026-01-27T14:49:05.272273",
+    "end": "2026-01-27T15:08:35.116394",
+    "duration_seconds": 1169,
+    "duration_hours": 0.32,
     "date": "2026-01-26"
   }
 }
