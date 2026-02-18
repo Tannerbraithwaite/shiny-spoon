@@ -174,13 +174,20 @@
       "duration_seconds": 3103,
       "duration_hours": 0.86,
       "date": "2026-02-17"
+    },
+    {
+      "start": "2026-02-17T22:59:10.736938",
+      "end": "2026-02-18T10:48:30.857514",
+      "duration_seconds": 42560,
+      "duration_hours": 11.82,
+      "date": "2026-02-17"
     }
   ],
   "last_session": {
-    "start": "2026-02-17T22:07:23.445926",
-    "end": "2026-02-17T22:59:06.721489",
-    "duration_seconds": 3103,
-    "duration_hours": 0.86,
+    "start": "2026-02-17T22:59:10.736938",
+    "end": "2026-02-18T10:48:30.857514",
+    "duration_seconds": 42560,
+    "duration_hours": 11.82,
     "date": "2026-02-17"
   }
 }
